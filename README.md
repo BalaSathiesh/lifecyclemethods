@@ -1,28 +1,16 @@
 # Ex.No:2 To create a HelloWorld Activity using all lifecycles methods to display messages.
-
-
 ## AIM:
-
 To create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio.
-
 ## EQUIPMENTS REQUIRED:
-
 Latest Version Android Studio
 ## ALGORITHM:
 Step 1: Open Android Stdio and then click on File -> New -> New project.
-
 Step 2: Then type the Application name as HelloWorld and click Next. 
-
 Step 3: Then select the Minimum SDK as shown below and click Next.
-
 Step 4: Then select the Empty Activity and click Next. Finally click Finish.
-
 Step 5: Design layout in activity_main.xml.
-
 Step 6: Display message give in MainActivity file.
-
 Step 7: Save and run the application.
-
 ## PROGRAM:
 ```
 /*
@@ -123,7 +111,6 @@ androidmanifest.xml
 
 </manifest>
 ```
-
 ## OUTPUT
 ![ONDestroy](https://github.com/BalaSathiesh/lifecyclemethods/assets/128462891/d316d0e5-48c3-4bbe-855e-98a1cbe1cf4e)
 ![OnResume](https://github.com/BalaSathiesh/lifecyclemethods/assets/128462891/2aabe914-5223-4ff9-8023-b1da0845b287)
@@ -131,9 +118,6 @@ androidmanifest.xml
 ![OnPause](https://github.com/BalaSathiesh/lifecyclemethods/assets/128462891/9b19740c-4d93-45d8-b257-39615f2b2fe5)
 ![OnStart](https://github.com/BalaSathiesh/lifecyclemethods/assets/128462891/cb1cb137-ca3d-4a15-a6cd-df3f5fa76b2a)
 ![OnCreate](https://github.com/BalaSathiesh/lifecyclemethods/assets/128462891/94fa91fe-98c7-4588-869b-fe981a96b2d7)
-
-
-
 
 ## RESULT
 Thus a Simple Android Application create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio is developed and executed successfully.
