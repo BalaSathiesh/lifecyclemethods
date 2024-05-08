@@ -44,6 +44,8 @@ public class MainActivity extends AppCompatActivity {
         Toast toast =Toast.makeText(getApplicationContext(),"onReStart Called",Toast.LENGTH_LONG);
         toast.show();
     }
+```
+```
     protected void onStart()
     {
 
